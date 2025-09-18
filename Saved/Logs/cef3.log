@@ -1,0 +1,5 @@
+[0916/202425.150:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 181
+[0916/202425.150:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 183
+[0916/202452.463:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0916/205656.518:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 41
+[0917/001017.276:WARNING:gpu_process_host.cc(1296)] The GPU process has crashed 1 time(s)
